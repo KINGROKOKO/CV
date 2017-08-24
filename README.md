@@ -1,4 +1,4 @@
-## Your Name
+## THOMAS EROMOSE IKIMI
 
 I am an aspiring junior developer transitioning from a full time career in the motion picture industry. I am seeking opportunities in software development and design: Ideally I would be working with inventive, creative people with whom I can collaborate and offer my expertise in project development and innovative problem solving.
 
@@ -58,20 +58,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (start_date to end_date)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
+- Curious and passionate about code. [I wrote my first code at 8 years old on an AMSTRAD using a 'C' book I found in my house. It was a game where you moved a sprite around a screen. I never figured out how to stop the sprite moving! Haven't coded since then till I decided to alter my career path]
+
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- TDD
+- Ruby, HTML, CSS
+- RSpec
 
-#### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### COLUMBIA UNIVERSITY/ NYC (2000 to 2004)
+
+- English Literature, Creative Writing & Philosophy
+- BA
 
 #### Any other qualifications
 
