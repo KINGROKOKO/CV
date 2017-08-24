@@ -1,16 +1,49 @@
 ## Your Name
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am an aspiring junior developer transitioning from a full time career in the motion picture industry. I am seeking opportunities in software development and design: Ideally I would be working with inventive, creative people with whom I can collaborate and offer my expertise in project development and innovative problem solving.
 
 ## Skills
 
 #### This Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Having spent over 15 years in film and tv as a writer, director, producer and (grudging) editor, I have had to build a robust skillset spanning many different disciplines. Project inception, development, team building and oversight, as well as delivery to tight deadlines and budget management. I believe my abilities are well suited to the world of software and technology as coding is just another tool of the creative mind. It's not the tools, but the craftsman that matters most. Coding to me is art.
 
-- Experience
-- Achievements
-- Evidence
+### EXPERIENCE
+- T/T STUDIOS UK (July '16 - Present)
+  CEO and founder. Film & TV production company based in UK & USA.
+
+- KALEIDOSCOPE PICTURES (NOV '08 - '12)
+  Founder. Film production company that developed into current company T/T Studios
+
+- APPLE STORE BRENT CROSS (OCT '06 - FEB '07)
+  Final Cut Pro & Media - in store advisor
+
+### ACHIEVEMENTS  
+- FOX NETWORK & LEGENDARY PICTURES (2014 -2017)
+  Sold & developed primetime drama
+
+- TRIBECA FILM FESTIVAL (2015)
+  Nominated BEST SHORT FILM 'NOSTRADAMUS'
+
+- OVERBROOK ENTERTAINMENT (2016 - present)
+  Developing political feature film
+
+- NBC/UNIVERSAL (2014 - 2015)
+  Sold & developed SciFi action drama
+
+- SKY BROADCAST NETWORK (2013 - 2015)
+  Sold & developed drama script
+
+- LONDON SCREEN NATION AWARDS (2011)
+  WINNER BEST DIRECTOR 'LEGACY'
+
+- BRITISH INDEPENDENT FILM AWARDS (2010)
+  Nominated RAINDANCE AWARD 'LEGACY'
+
+- AMERICAN BLACK FILM FESTIVAL (2010)
+  WINNER GRAND JURY PRIZE 'LEGACY'
+
+- More info on my motion picture career can be found online
 
 #### Another Skill
 
